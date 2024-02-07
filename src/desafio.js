@@ -1,3 +1,4 @@
+//classificador de heroi
 let xp = 5000
 let heroi = "Ike";
 let nivel = "";
